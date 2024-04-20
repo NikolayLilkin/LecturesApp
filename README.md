@@ -1,5 +1,5 @@
 # Application Description
-The LectureApp is a Spring Boot application is a basic CRUD app that manages
+The LectureApp is a Spring Boot application which is a basic CRUD app that manages
 students, courses, and their respective registrations. 
 Once you've set up the project, all endpoints are accessible at `localhost:8080/api`.
 In order to use the courses-controller endpoints you first need a bearer token
