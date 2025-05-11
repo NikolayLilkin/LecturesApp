@@ -47,4 +47,4 @@ spring.datasource.username=springuser
 spring.datasource.password=ThePassword
 ```
 
-After doing these steps you are ready to use the app. 
+After doing these steps you are ready to use the app! 
